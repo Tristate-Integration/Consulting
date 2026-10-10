@@ -11,5 +11,6 @@ Expert guidance and tailored security evaluations backed by an extensive industr
 * **Short-Term Rental Security Overhauls:** Specialized consulting for Airbnb and vacation property owners to streamline guest turnover, manage mechanical vs. electronic key control, and ensure reliable physical security between bookings.
 * **Compliance & Code Guidance:** Expert insights into hardware standards and best practices for securing properties while maintaining proper emergency egress and local code requirements.
 
-*Below is this Link to a consultation request
+* **Below is this Link to a consultation request
+
 https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__nh9h_hUQzBSOFVTVU9OU0s3NlI4Q1BWVllaV0JOSS4u
